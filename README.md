@@ -1,6 +1,6 @@
 ## WELCOME 👋
 
-![](https://github.com/Gabi-Barretto/Gabi-Barretto/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/gabi-barretto/gabi-barretto/raw/output/github-contribution-grid-snake.svg)
 
 <!--
 **Gabi-Barretto/Gabi-Barretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
