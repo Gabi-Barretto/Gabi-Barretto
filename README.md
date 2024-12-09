@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Gabi Barreto!
+# 👋 Olá! Eu sou a Gabi Barretto!
 
 ### 🚀 Tecnologias Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-Barretto&layout=compact&theme=dracula)
